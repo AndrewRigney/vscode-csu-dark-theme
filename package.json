@@ -1,0 +1,22 @@
+{
+    "name": "charlessturtdark",
+    "displayName": "Charles Sturt - Dark",
+    "description": "Charles Sturt - Dark 2019",
+    "version": "1.0.0",
+    "publisher": "andrewrigney",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Charles Sturt - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/csu-dark-color-theme.json"
+            }
+        ]
+    }
+}
